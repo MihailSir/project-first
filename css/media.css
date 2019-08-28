@@ -1,0 +1,807 @@
+/*DESKTOP FIRST*/
+/*==================================*/
+@media all and (max-width: 1024px) {
+    .container {
+        max-width: 1024px;
+    }
+
+    .header-heading {
+        width: 80%;
+    }
+
+    .header-text {
+        width: 80%;
+    }
+
+    .app {
+        margin-top: 0;
+    }
+    .features {
+        min-height: 600px;
+    }
+
+    .features_lorem {
+        width: 80%;
+    }
+
+    .list_features {
+         padding-bottom: 50px;
+        width: 100%;
+    }
+
+    .figure {
+        height: 50px;
+    }
+
+    .figure > h3 {
+        font-size: 14px;
+        line-height: 24px;
+    }
+
+    .latest_lorem {
+        width: 60%;
+    }
+
+    .way_face {
+        width: 157px;
+        height: 157px;
+    }
+
+    .about_h {
+        font-size: 52px;
+        line-height: 47px;
+    }
+
+    .about_p {
+        font-size: 14px;
+        line-height: 21px;
+    }
+
+    .notebook {
+        width: 90%;
+        bottom: 155px;
+        left: 10%;
+    }
+
+    .back {
+        margin: 180px 0 410px 28px;
+    }
+
+    footer {
+        max-width: 1024px;
+    }
+
+    .contacts {
+        padding: 0 5px;
+    }
+
+    .contacts + p {
+        padding-left: 5px;
+        margin-bottom: 120px;
+    }
+
+    .social_network {
+        padding-right: 5px;
+
+    }
+
+    .network {
+        width: 83px;
+        height: 31px;
+
+    }
+}
+
+/*768+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+@media all and (max-width: 768px) {
+    .container {
+        max-width: 768px;
+    }
+
+    .menu-link {
+        margin: 0 5px;
+
+    }
+
+    .header-heading {
+        width: 100%;
+    }
+
+    .header-text {
+        width: 100%;
+    }
+
+    .H_text_features {
+        font-size: 11px;
+        line-height: 19px;
+    }
+
+    .p_text_features {
+        font-size: 9px;
+        line-height: 16px;
+    }
+
+    .value_style {
+        width: 40%;
+    }
+
+    .Design_style_content {
+        width: 40%;
+    }
+
+    .value_style_email {
+        width: 40%;
+    }
+
+    .figure {
+        height: 50px;
+    }
+
+    .figure > h3 {
+        font-size: 14px;
+        line-height: 24px;
+    }
+
+    .latest_lorem {
+        width: 80%;
+    }
+
+    .buy > img {
+        width: 70%;
+    }
+
+    .basket > img {
+        width: 40%;
+    }
+
+    .h_portfolio {
+        background: url("../special icon/guidlaines_way.png") no-repeat 100% 50%;
+        font-size: 12px;
+    }
+
+    .about {
+        height: 700px;
+    }
+
+    .way_face {
+        width: 117px;
+        height: 117px;
+    }
+
+    .about_text {
+        width: 60%;
+    }
+
+    .about_h {
+        font-size: 39px;
+        line-height: 36px;
+    }
+
+    .about_p {
+        font-size: 14px;
+        line-height: 21px;
+    }
+
+
+    .notebook {
+        width: 65%;
+        left: 35%;
+        bottom: 55px;
+    }
+
+    .back {
+        margin: 150px 0 300px 28px;
+    }
+
+    footer {
+        max-width: 768px;
+    }
+
+    .contacts {
+        padding: 0 5px;
+    }
+
+    .contacts + p {
+        padding-left: 5px;
+        padding-bottom: 70px;
+    }
+
+    .social_network {
+        padding-right: 5px;
+
+    }
+
+    .network {
+        width: 62px;
+        height: 23px;
+
+    }
+}
+
+/*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+@media all and (max-width: 540px) {
+
+    .container {
+        max-width: 540px;
+    }
+
+    .header {
+        padding-top: 40px;
+    }
+
+    .logo-img {
+        width: 55px;
+
+    }
+
+    .nav {
+        margin-bottom: 80px;
+            }
+
+      .menu {
+        display:none;
+    }
+
+    .menu-link {
+        font-size: 10px;
+        line-height: 20px;
+        padding: 22px 0;
+        margin: 0 5px;
+
+    }
+
+    .menu-link-join {
+        font-size: 10px;
+        line-height: 10px;
+        padding: 8px 10px 18px 15px;
+    }
+
+    .menu-link-join > p {
+        padding-right: 10px;
+    }
+
+    .menu-link-batton {
+        min-width: 80px;
+        height: 40px;
+    }
+
+
+    .header-heading {
+        font-size: 28px;
+        line-height: 30px;
+        margin-bottom: 10px;
+
+    }
+
+    .header-text {
+        font-size: 12px;
+        line-height: 17px;
+        margin-bottom: 10px;
+    }
+
+    .value_style {
+        display: block;
+        width: 300px;
+    }
+
+    .design_style {
+        width: 300px;
+    }
+
+    .Design_style_content {
+        width: 300px;
+    }
+
+    .value_style_email {
+        margin-top: 5px;
+        width: 300px;
+    }
+
+    .button_right {
+        display: inherit;
+        margin: 5px 0 0 0;
+    }
+
+    /*features+++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+    .list_features {
+                width: 100%;
+    }
+
+      .H_text_features {
+        font-size: 11px;
+        line-height: 19px;
+    }
+
+    .p_text_features {
+        font-size: 9px;
+        line-height: 16px;
+    }
+
+    .figure {
+        height: 30px;
+    }
+
+    .figure > h3 {
+        font-size: 10px;
+        line-height: 13px;
+        padding: 0 20px;
+    }
+
+    /*design===========================================*/
+    .design {
+        min-height: 362px;
+    }
+
+    .way {
+        width: 68px;
+        height: 34px;
+        background: url("../special icon/Rectangle 31.png");
+    }
+
+    .way img {
+        width: 68px;
+        height: 68px;
+        border-radius: 50%;
+    }
+
+    .arrow {
+        top: 24px;
+    }
+
+    .arrow img {
+        width: 20px;
+        height: 20px;
+    }
+
+    .latest {
+        font-size: 20px;
+        line-height: 10px;
+        padding-top: 60px;
+    }
+
+    .latest_lorem {
+        font-size: 12px;
+        line-height: 13px;
+        padding-bottom: 70px;
+    }
+
+    .iphone {
+        width: 90%;
+    }
+
+    /*features================================================*/
+    .features {
+        min-height: 500px;
+    }
+
+    .way_next {
+        width: 68px;
+        height: 68px;
+        top: -34px;
+    }
+
+    .arrow_next {
+        top: 28px;
+    }
+
+    .arrow_next img {
+        width: 20px;
+        height: 20px;
+    }
+
+    .app {
+        font-size: 20px;
+        line-height: 10px;
+        margin-top: 20px;
+    }
+
+    .features_lorem {
+        width: 80%;
+        font-size: 12px;
+        line-height: 15px;
+        padding-bottom: 40px;
+    }
+
+    .list_features {
+        padding-bottom: 30px;
+    }
+
+    .menu_features {
+        width: 50%;
+        min-height: 240px;
+    }
+
+    .buy > img {
+        width: 70%;
+    }
+
+    .buy > img:last-child {
+        width: 60%;
+    }
+
+    .basket > img {
+        width: 40%;
+    }
+
+    .H_text_features {
+        font-size: 13px;
+        line-height: 15px;
+    }
+
+    .p_text_features {
+        font-size: 10px;
+        line-height: 15px;
+    }
+
+    /*guidlains++++++++++++++++++++++++++++++++++*/
+    .portfolio {
+        min-height: 530px;
+    }
+
+    .way_next_next {
+        width: 68px;
+        height: 34px;
+    }
+
+    .arrow_next_next {
+        top: 43px;
+    }
+
+
+    .arrow_next_next img {
+        width: 20px;
+        height: 20px;
+        top: -49px;
+    }
+
+    .guidlines {
+        font-size: 20px;
+        line-height: 10px;
+        text-align: center;
+        margin-top: 60px;
+    }
+
+    .lorem_guidlines {
+        font-size: 12px;
+        line-height: 15px;
+        padding-bottom: 40px;
+    }
+
+    .table_portfolio {
+        height: 47px;
+        margin-bottom: 50px;
+    }
+
+    .ul_portfolio {
+        height: 49px;
+    }
+
+    .li_portfolio {
+        font-size: 10px;
+        line-height: 29px;
+        padding: 10px 13px;
+    }
+
+    .li_picture_hand {
+              width: 100%;
+        padding-bottom: 5px;
+
+    }
+
+    .h_portfolio {
+        background: url("../special icon/guidlaines_way.png") no-repeat 90% 50%;
+        font-size: 14px;
+    }
+
+    /*about+++++++++++++++++++++++++++++++++++++++++++++++*/
+    .about {
+        height: 435px;
+    }
+
+    .way_face {
+        width: 80px;
+        height: 80px;
+    }
+
+    .about_text {
+        width: 70%;
+    }
+
+    .about_h {
+        font-size: 20px;
+        line-height: 26px;
+        /*width: 178px;*/
+    }
+
+    .about_p {
+        font-size: 12px;
+        line-height: 15px;
+    }
+
+    .notebook {
+        width: 57%;
+        bottom: 20px;
+        left: 43%;
+    }
+
+    /*футер++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+    .back {
+        margin: 60px 0 70px 15px;
+    }
+
+    .back > a > image {
+        height: 15px;
+        width: 15px;
+    }
+
+    footer {
+        max-width: 100%;
+    }
+
+    .social_network {
+        text-align: right;
+
+    }
+
+    .network {
+        width: 50px;
+        height: 15px;
+    }
+
+    .contacts {
+        font-size: 8px;
+        line-height: 17px;
+    }
+
+    .contact_menu {
+        width: 56px;
+    }
+
+    .contact_menu_next {
+        width: 75px;
+        margin-left: 24px;
+    }
+
+    .contacts + p {
+        font-size: 8px;
+        line-height: 20px;
+        margin-bottom: 0;
+        padding-bottom: 30px;
+    }
+}
+
+/*320++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+@media all and (max-width: 320px) {
+    .container {
+        width: 320px;
+        padding-bottom: 45px;
+    }
+
+    .header {
+        padding-top: 40px;
+    }
+
+    .logo-img {
+        width: 40px;
+
+    }
+
+    .top_button {
+        display: block;
+    }
+
+    .menu-link-join {
+        padding: 3px 5px 18px 10px;
+    }
+
+    .menu-link-batton {
+        min-width: 67px;
+        height: 32px;
+    }
+
+    .header-heading {
+        width: 320px;
+        font-size: 23px;
+        line-height: 20px;
+        margin-bottom: 5px;
+        text-align: center;
+    }
+
+    .header-text {
+        width: 300px;
+        font-size: 12px;
+        line-height: 15px;
+        margin-bottom: 10px;
+        text-align: center;
+    }
+
+    .button_right {
+        margin-top: 40px;
+        margin-left: 137px;
+        position: initial;
+    }
+    .value_style {
+        width: 100%;
+    }
+
+    .design_style {
+        width: 100%;
+    }
+
+    .Design_style_content {
+        width: 100%;
+    }
+
+    .value_style_email {
+               width: 100%;
+    }
+
+
+    /*features++++++++++++++++++++++++++++++++++++++++++++++++*/
+    .list_features {
+        padding-left: 0;
+        width: 100%;
+    }
+
+    .menu_features {
+        width: 24%;
+        padding-right: 10px;
+    }
+
+    .menu_features:last-child {
+        padding-right: 0;
+    }
+
+    .H_text_features {
+        font-size: 11px;
+        line-height: 19px;
+    }
+
+    .p_text_features {
+        font-size: 9px;
+        line-height: 16px;
+    }
+
+    /*design===========================================*/
+    .design {
+        min-height: 328px;
+    }
+
+    .latest_lorem {
+        font-size: 12px;
+        line-height: 13px;
+        width: 310px;
+        padding-bottom: 40px;
+    }
+
+    .iphone {
+        width: 90%;
+    }
+
+    /*features================================================*/
+    .features_lorem {
+        line-height: 13px;
+        width: 310px;
+        padding-bottom: 26px;
+    }
+
+    .menu_features {
+        width: 100%;
+    }
+
+    .basket {
+        width: 310px;
+    }
+
+    .basket > img {
+        width: 29%;
+    }
+
+    .H_text_features {
+        width: 310px;
+    }
+
+    .p_text_features {
+        width: 310px;
+    }
+
+    .menu_features:last-child {
+        padding-right: 0;
+    }
+
+    /*guidlains++++++++++++++++++++++++++++++++++*/
+    .guidlines {
+        margin-top: 45px;
+    }
+
+    .lorem_guidlines {
+        line-height: 13px;
+        width: 310px;
+        padding-bottom: 40px;
+    }
+
+    .table_portfolio {
+        height: 47px;
+        margin-bottom: 30px;
+    }
+
+    .portfolio {
+        min-height: 440px;
+    }
+
+    /*about+++++++++++++++++++++++++++++++++++++++++++++++*/
+    .about {
+        height: 380px;
+    }
+
+
+    .about_text {
+        width: 65%;
+    }
+
+    .notebook {
+        width: 57%;
+        bottom: 32px;
+        left: 43%;
+    }
+
+    /*футер++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+    .back {
+        margin: 40px 0 55px 15px;
+    }
+
+    .back > a > image {
+        height: 8px;
+        width: 8px;
+    }
+
+    footer {
+        max-width: 320px;
+    }
+
+    .social_network {
+        text-align: right;
+
+    }
+
+    .network {
+        width: 50px;
+        height: 15px;
+    }
+
+    .contacts {
+        font-size: 8px;
+        line-height: 17px;
+    }
+
+    .contact_menu {
+        width: 56px;
+    }
+
+    .contact_menu_next {
+        display: inline-block;
+        vertical-align: top;
+        width: 75px;
+        margin-left: 85px;
+    }
+
+    .contacts + p {
+        font-size: 8px;
+        line-height: 20px;
+        margin-bottom: 0;
+        padding-bottom: 30px;
+        display: inline-block;
+    }
+
+    .contact_menu_adress {
+        float: none;
+    }
+}
+
+
+@media screen and (max-width: 540px){
+    .open {
+        display: block;
+        float: right;
+    }
+}
